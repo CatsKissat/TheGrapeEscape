@@ -1,5 +1,5 @@
 # The Grape Escape
-A Unity game made originally at [Ahlman](https://ahlmanedu.fi/koulutushaku/peliohjelmoinnin-linja/) in a week.
+A Unity game I originally made at [Ahlman](https://ahlmanedu.fi/koulutushaku/peliohjelmoinnin-linja/) in a week.
 
 I started to update the game after ~2 years for fun.
 
